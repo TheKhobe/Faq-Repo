@@ -1,0 +1,9 @@
+header{
+  background-image: url('./images/background-pattern-desktop.svg');
+  background-color: hsl(292, 42%, 14%);
+  height: 200px;
+}
+h1, h2, p{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+}
